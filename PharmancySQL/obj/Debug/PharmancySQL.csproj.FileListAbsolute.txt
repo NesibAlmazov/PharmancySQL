@@ -1,0 +1,16 @@
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.csprojAssemblyReference.cache
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.Form1.resources
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.Properties.Resources.resources
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.csproj.GenerateResource.cache
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\PharmancySQL.exe.config
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\PharmancySQL.exe
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\PharmancySQL.pdb
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\EntityFramework.dll
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\EntityFramework.SqlServer.dll
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\EntityFramework.xml
+G:\visual studio\PharmancySQL\PharmancySQL\bin\Debug\EntityFramework.SqlServer.xml
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.csproj.CopyComplete
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.exe
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.pdb
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.Create.resources
+G:\visual studio\PharmancySQL\PharmancySQL\obj\Debug\PharmancySQL.Delete.resources
